@@ -1,0 +1,15 @@
+{
+  "name": "phpcyy/algorithm",
+  "authors": [
+    {
+      "name": "phpcyy",
+      "email": "phpcyy@163.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "algorithm\\": "src/"
+    }
+  },
+  "require": {}
+}
